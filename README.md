@@ -42,7 +42,7 @@
 
   <p><b>Languages & Core</b></p>
   <img src="https://img.shields.io/badge/python-283618?style=for-the-badge&logo=python&logoColor=dda15e" />
-  <img src="https://img.shields.io/badge/C-283618.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-283618.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-283618.svg?style=for-the-badge&logo=javascript&logoColor=dda15e" />
   <img src="https://img.shields.io/badge/html5-283618.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-283618.svg?style=for-the-badge&logo=css3&logoColor=white" />
