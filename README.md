@@ -25,7 +25,7 @@
           <li>💼 <b>Experience:</b> AI Intern at <b>Infosys</b> (Rated 10/10) & Python Dev at <b>Kasolco</b>.</li>
           <li>🔭 <b>Focus:</b> Agentic RAG, Vector Databases (Pinecone), and Generative AI.</li>
           <li>🚀 <b>Impact:</b> Engineered zero-cost RAG pipelines and automated support workflows.</li>
-          <li>🏏 <b>Offline:</b> Cricket Strategist & Badminton Enthusiast.</li>
+          <li>🏏 <b>Offline:</b> Cricket & Badminton Enthusiast.</li>
         </ul>
       </td>
       <td width="40%" valign="middle" align="center">
@@ -54,7 +54,6 @@
   <img src="https://img.shields.io/badge/numpy-283618.svg?style=for-the-badge&logo=numpy&logoColor=dda15e" />
   <img src="https://img.shields.io/badge/pandas-283618.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-283618.svg?style=for-the-badge&logo=scikit-learn&logoColor=dda15e" />
-  <img src="https://img.shields.io/badge/PyTorch-283618.svg?style=for-the-badge&logo=PyTorch&logoColor=bc6c25" />
   <img src="https://img.shields.io/badge/LangChain-283618.svg?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Pinecone-283618.svg?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-283618.svg?style=for-the-badge&logo=anaconda&logoColor=dda15e" />
@@ -84,22 +83,22 @@
     </thead>
     <tbody>
       <tr>
-        <td><b><a href="#">🧠 IntelliSearch</a></b></td>
+        <td><b><a href="https://github.com/Darahas1/IntelliSearch-RAG">🧠 IntelliSearch</a></b></td>
         <td><code>Agentic RAG</code> <code>Groq</code> <code>Tavily</code></td>
         <td>Autonomous RAG system answering queries via real-time web search integration.</td>
       </tr>
       <tr>
-        <td><b><a href="#">💬 EcoChat</a></b></td>
+        <td><b><a href="https://github.com/Darahas1/EcoChat">💬 EcoChat</a></b></td>
         <td><code>Gemini</code> <code>Pinecone</code> <code>RAG</code></td>
         <td>Zero-cost semantic search pipeline for querying private CSV data from Google Drive.</td>
       </tr>
       <tr>
-        <td><b><a href="#">🕹️ Retro Task Manager</a></b></td>
+        <td><b><a href="https://retro-todo-app.onrender.com/">🕹️ Retro Task Manager</a></b></td>
         <td><code>Flask</code> <code>PostgreSQL</code></td>
         <td>Gamified 8-bit productivity app with "Night Vision" mode and secure Bcrypt auth.</td>
       </tr>
       <tr>
-        <td><b><a href="#">🎬 Cine Match</a></b></td>
+        <td><b><a href="https://github.com/Darahas1/CineMatch">🎬 Cine Match</a></b></td>
         <td><code>Python</code> <code>ML</code></td>
         <td>Intelligent movie recommendation engine using content-based filtering.</td>
       </tr>
