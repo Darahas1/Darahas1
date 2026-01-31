@@ -25,14 +25,14 @@
           Building the intersection of <b>Agentic AI</b> and <b>Scalable Software</b>.
         </p>
         <p>
-          As a high-achieving <b>AI/ML Specialist (9.7 CGPA)</b> and <b>Full Stack Python Developer</b>, I engineer intelligent systems that drive real impact. From optimizing pipelines at <b>Infosys</b> to building zero-cost RAG architectures, I focus on efficiency and innovation.
+           I am a results-oriented <b>AI/ML Specialist</b> and <b>Full Stack Python Developer</b> with a strong academic record <b>(9.7 CGPA)</b>. I specialize in building scalable, AI-driven solutions using Agentic RAG architectures and LLMs.
         </p>
         <br/>
         <ul style="list-style-type: none; padding: 0;">
-          <li>💼 <b>Current:</b> Refining AI pipelines & Python Development.</li>
-          <li>🔭 <b>Specializing in:</b> Agentic RAG, Vector DBs (Pinecone), Generative AI.</li>
-          <li>🚀 <b>Signature Move:</b> Converting complex data into actionable insights via AI.</li>
-          <li>🏏 <b>Downtime:</b> Cricket & Badminton Strategist.</li>
+          <li>💼 <b>Experience:</b> AI Intern at <b>Infosys</b> (Rated 10/10) & Python Dev at <b>Kasolco</b>.</li>
+          <li>🔭 <b>Focus:</b> Agentic RAG, Vector Databases (Pinecone), and Generative AI.</li>
+          <li>🚀 <b>Impact:</b> Engineered zero-cost RAG pipelines and automated support workflows.</li>
+          <li>🏏 <b>Offline:</b> Cricket & Badminton Enthusiast.</li>
         </ul>
       </td>
       <td width="40%" valign="middle" align="center" style="background-color: #222; border-radius: 0 20px 20px 0;">
