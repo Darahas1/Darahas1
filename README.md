@@ -44,37 +44,47 @@
 
 <br />
 
-<!-- Tech Stack with Unified Theming -->
+<!-- Tech Stack with Unified Theming and Table Structure -->
 <h2 align="center">🛠️ Technical Arsenal</h2>
 <div align="center">
-  <table border="0">
-    <tr>
-        <td align="center" width="33%">
-            <h3 style="color: #bc6c25;">Languages & Core</h3>
-            <img src="https://img.shields.io/badge/python-283618?style=for-the-badge&logo=python&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/c-283618.svg?style=for-the-badge&logo=c&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/javascript-283618.svg?style=for-the-badge&logo=javascript&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/html5-283618.svg?style=for-the-badge&logo=html5&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/mysql-283618.svg?style=for-the-badge&logo=mysql&logoColor=fefae0" />
-        </td>
-        <td align="center" width="33%">
-            <h3 style="color: #bc6c25;">AI / ML / Data</h3>
-            <img src="https://img.shields.io/badge/LangChain-283618.svg?style=for-the-badge&logo=langchain&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/Pinecone-283618.svg?style=for-the-badge&logo=pinecone&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/scikit--learn-283618.svg?style=for-the-badge&logo=scikit-learn&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/pandas-283618.svg?style=for-the-badge&logo=pandas&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/numpy-283618.svg?style=for-the-badge&logo=numpy&logoColor=fefae0" />
-        </td>
-        <td align="center" width="33%">
-            <h3 style="color: #bc6c25;">Tools & Frameworks</h3>
-            <img src="https://img.shields.io/badge/flask-283618.svg?style=for-the-badge&logo=flask&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/Streamlit-283618.svg?style=for-the-badge&logo=streamlit&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/Postman-283618?style=for-the-badge&logo=postman&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/git-283618.svg?style=for-the-badge&logo=git&logoColor=fefae0" /><br/>
-            <img src="https://img.shields.io/badge/figma-283618.svg?style=for-the-badge&logo=figma&logoColor=fefae0" />
-        </td>
-    </tr>
-  </table>
+    <table border="0" width="95%" style="border-collapse: separate; border-spacing: 0 15px;">
+        <tr style="background-color: #283618;">
+            <td width="20%" align="center" valign="middle" style="padding: 15px; border-right: 2px solid #bc6c25;">
+                <h3 style="color: #bc6c25; margin:0;">Languages<br>& Core</h3>
+            </td>
+            <td width="80%" align="left" valign="middle" style="padding: 15px;">
+                 <img src="https://img.shields.io/badge/python-283618?style=for-the-badge&logo=python&logoColor=fefae0" />
+                 <img src="https://img.shields.io/badge/c-283618.svg?style=for-the-badge&logo=c&logoColor=fefae0" />
+                 <img src="https://img.shields.io/badge/javascript-283618.svg?style=for-the-badge&logo=javascript&logoColor=fefae0" />
+                 <img src="https://img.shields.io/badge/html5-283618.svg?style=for-the-badge&logo=html5&logoColor=fefae0" />
+                 <img src="https://img.shields.io/badge/mysql-283618.svg?style=for-the-badge&logo=mysql&logoColor=fefae0" />
+            </td>
+        </tr>
+        <tr style="background-color: #283618;">
+            <td width="20%" align="center" valign="middle" style="padding: 15px; border-right: 2px solid #bc6c25;">
+                <h3 style="color: #bc6c25; margin:0;">AI / ML<br>& Data</h3>
+            </td>
+            <td width="80%" align="left" valign="middle" style="padding: 15px;">
+                <img src="https://img.shields.io/badge/LangChain-283618.svg?style=for-the-badge&logo=langchain&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/Pinecone-283618.svg?style=for-the-badge&logo=pinecone&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/scikit--learn-283618.svg?style=for-the-badge&logo=scikit-learn&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/pandas-283618.svg?style=for-the-badge&logo=pandas&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/numpy-283618.svg?style=for-the-badge&logo=numpy&logoColor=fefae0" />
+            </td>
+        </tr>
+        <tr style="background-color: #283618;">
+            <td width="20%" align="center" valign="middle" style="padding: 15px; border-right: 2px solid #bc6c25;">
+                <h3 style="color: #bc6c25; margin:0;">Tools &<br>Frameworks</h3>
+            </td>
+            <td width="80%" align="left" valign="middle" style="padding: 15px;">
+                <img src="https://img.shields.io/badge/flask-283618.svg?style=for-the-badge&logo=flask&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/Streamlit-283618.svg?style=for-the-badge&logo=streamlit&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/Postman-283618?style=for-the-badge&logo=postman&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/git-283618.svg?style=for-the-badge&logo=git&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/figma-283618.svg?style=for-the-badge&logo=figma&logoColor=fefae0" />
+            </td>
+        </tr>
+    </table>
 </div>
 
 <br />
