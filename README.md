@@ -163,8 +163,5 @@
 <!-- Themed Stats Section -->
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darahas1&show_icons=true&theme=transparent&bg_color=283618&title_color=fefae0&text_color=fefae0&icon_color=bc6c25&border_color=bc6c25&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darahas1&layout=compact&theme=transparent&bg_color=283618&title_color=fefae0&text_color=fefae0&icon_color=bc6c25&border_color=bc6c25&hide_border=false" height="150" alt="languages graph" />
-  <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=darahas1&theme=dark&background=283618&border=bc6c25&stroke=fefae0&ring=bc6c25&fire=bc6c25&currStreakNum=fefae0&sideNums=fefae0&currStreakLabel=bc6c25&sideLabels=bc6c25&dates=fefae0&hide_border=false" alt="streak graph" />
 </div>
