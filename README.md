@@ -54,7 +54,7 @@
             </td>
             <td width="80%" align="left" valign="middle" style="padding: 15px;">
                  <img src="https://img.shields.io/badge/python-283618?style=for-the-badge&logo=python&logoColor=fefae0" />
-                 <img src="https://img.shields.io/badge/c-283618.svg?style=for-the-badge&logo=c&logoColor=fefae0" />
+                 <img src="https://img.shields.io/badge/-283618.svg?style=for-the-badge&logo=c&logoColor=fefae0" />
                  <img src="https://img.shields.io/badge/javascript-283618.svg?style=for-the-badge&logo=javascript&logoColor=fefae0" />
                  <img src="https://img.shields.io/badge/html5-283618.svg?style=for-the-badge&logo=html5&logoColor=fefae0" />
                  <img src="https://img.shields.io/badge/mysql-283618.svg?style=for-the-badge&logo=mysql&logoColor=fefae0" />
@@ -67,7 +67,6 @@
             <td width="80%" align="left" valign="middle" style="padding: 15px;">
                 <img src="https://img.shields.io/badge/LangChain-283618.svg?style=for-the-badge&logo=langchain&logoColor=fefae0" />
                 <img src="https://img.shields.io/badge/Pinecone-283618.svg?style=for-the-badge&logo=pinecone&logoColor=fefae0" />
-                <img src="https://img.shields.io/badge/scikit--learn-283618.svg?style=for-the-badge&logo=scikit-learn&logoColor=fefae0" />
                 <img src="https://img.shields.io/badge/pandas-283618.svg?style=for-the-badge&logo=pandas&logoColor=fefae0" />
                 <img src="https://img.shields.io/badge/numpy-283618.svg?style=for-the-badge&logo=numpy&logoColor=fefae0" />
             </td>
@@ -79,9 +78,10 @@
             <td width="80%" align="left" valign="middle" style="padding: 15px;">
                 <img src="https://img.shields.io/badge/flask-283618.svg?style=for-the-badge&logo=flask&logoColor=fefae0" />
                 <img src="https://img.shields.io/badge/Streamlit-283618.svg?style=for-the-badge&logo=streamlit&logoColor=fefae0" />
-                <img src="https://img.shields.io/badge/Postman-283618?style=for-the-badge&logo=postman&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/Bootstrap-283618?style=for-the-badge&logo=bootstrap&logoColor=fefae0" />
                 <img src="https://img.shields.io/badge/git-283618.svg?style=for-the-badge&logo=git&logoColor=fefae0" />
                 <img src="https://img.shields.io/badge/figma-283618.svg?style=for-the-badge&logo=figma&logoColor=fefae0" />
+                <img src="https://img.shields.io/badge/Power BI-283618.svg?style=for-the-badge&logo=powerbi&logoColor=fefae0" />
             </td>
         </tr>
     </table>
